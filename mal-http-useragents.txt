@@ -1,8 +1,7 @@
--
-00
-123
+^00$
+^123$
 4M5yC6u4stom5U8se3r
-56
+^56$
 aaaa
 Absent
 Accessing
@@ -25,7 +24,7 @@ AskInstall
 AskPartner
 AsyncInet
 Atomic_Email_Hunter
-AutoDL/1.0
+AutoDL\/1.
 AutoHotkey
 AutoIt3Script
 auto_plugin
@@ -49,12 +48,11 @@ checkonline
 chek
 ChilkatUpload
 chrome
-chrome/9.0
-Chrome Edge 97.0.5
+chrome\/9\.0
+Chrome Edge 97\.0\.5
 Clever Internet Suite
 ClickAdsByIE
-Client
-Collection Info/1.0
+Collection Info\/1\.0
 Compatible
 _Converter_
 cso v
@@ -82,23 +80,23 @@ DumpTruck
 easyhttp client
 ekeoil
 EmailSiphon
-Embarcadero URI Client/1.0
+Embarcadero URI Client\/1\.0
 Erbium-UA-
 ErrCode
 ESET Installer
-example/1.0
+example\/1\.0
 FaceCooker
 FastInvoice
 Fire-Cloud
 firefox
-Firefox...
+Firefox\.\.\.
 FirefoxApp
 Flipopia
 FreePDS
 Ftp
 FULLSTUFF
 GameInfo
-Gemini/2.0
+Gemini\/2\.0
 get
 getcmd
 Get HTML Source Code Program
@@ -107,10 +105,10 @@ GKSQ
 Go-http-client
 GOOGLE
 Google Chrome
-google/dance
+google\/dance
 h55u4u4u5uii5
 hacker
-Hakai/2.0
+Hakai\/2.0
 HardCore Software For
 HELLO
 Hello World
@@ -118,7 +116,7 @@ Hello, World
 Hello-World
 hopeisnull
 HTop
-HTTP/1.
+HTTP\/1\.
 HTTP Client
 Http-connect
 HTTP_Connect_
@@ -137,12 +135,12 @@ HTTP-Test-Program
 Huai_Huai
 iamideal
 IE
-IE/1.0
+IE\/1.0
 IE6
 IEhook
 IEMGR
 IExplorer 34
-Im'Luo
+Im\'Luo
 INet
 Inet_read
 InfoBot
@@ -151,17 +149,17 @@ Installed OK
 Installer
 INSTALLER
 Internet Explorer
-Internet Explorer 8.0
+Internet Explorer 8\.0
 Internet HTTP
 @internetsecurityguard
 IP
 IP retriever
 ISMYIE
 ItIsMe
-Java/1.
+Java\/1\.
 jrDownload
 kath
-KL Cure Utility/1.0
+KL Cure Utility\/1\.0
 Kvadrlson
 LabTech Agent
 ld
@@ -178,8 +176,7 @@ mania
 Mazilla
 mdms
 MERONG
-Microsoft-ATL-Native/9.00
-MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+Microsoft-ATL-Native\/9\.00
 Microsoft Internet Explorer
 Microsoft Office Existence Discovery
 Microsoft Windows Network Diagnostics
@@ -188,23 +185,20 @@ min
 Miner
 Moxilla
 Mozil1a
-Mozilla/1.0
-Mozilla/3.0
-Mozilla/4.0
-Mozilla/4.7 [en] (WinNT
-Mozilla/5.0_Frsg_stredf_o21_crown_type
-Mozilla/5.0 (Windows Phone
-Mozilla 6.0
-Mozilla/6.0
-Mozilla/777.0
+Mozilla\/[0-4]
+Mozilla/5\.0_Frsg_stredf_o21_crown_type
+Mozilla/5\.0 \(Windows Phone
+Mozilla 6\.0
+Mozilla\/6\.0
+Mozilla\/777\.0
 mozilla firefox
-Mozilla FireFox 61.00
+Mozilla FireFox 61\.00
 MSDW
 msIE
 MSIE
-MSIE 10.0
-MSIE 5.5
-MSIE(6.
+MSIE 10\.0
+MSIE 5\.5
+MSIE\(6\.
 MS Internet Explorer
 MWHTTP
 My Agent
@@ -228,24 +222,24 @@ NoBo
 node-XMLHttpRequest
 None
 NSISDL
-NSISDL/1.2 (Mozilla)
+NSISDL\/1\.2 \(Mozilla)
 NSIS_DOWNLOAD
 NSIS_Inetc
 NSIS_INETC
-NSIS_InetLoad (Mozilla)
+NSIS_InetLoad \(Mozilla\)
 OldAssBrowser
 Omega
 onedru
-OnionWClient / 1.0
+OnionWClient \/ 1\.0
 Open URL Application
 opera
-Opera/10.60 Presto/2.2.30
+Opera\/10\.60 Presto\/2\.2\.30
 Our_Agent
-PatchMyPC/Get Update FileSize
+PatchMyPC\/Get Update FileSize
 Patch My PC Home Updater
 payloadworking
 PhoneMonitor
-Pi/3.1415926
+Pi\/3\.1415926
 plugin
 post_example
 pOZw5in9LBZnqf8T
@@ -264,11 +258,11 @@ reqwest
 RestoroMainExe
 RiSing
 RLMultySocket
-RT/1.0
-runPatch.html
-runUpdater.html
+RT\/1.0
+runPatch\.html
+runUpdater\.html
 RuokuaiClient
-Safari
+Safari[^\/]
 ScrapeBox
 SERVER
 Session
@@ -297,7 +291,6 @@ _TEST_
 Testing
 test-upload
 The Http-string-downloader
- Tizen
 ttt
 UA3
 UA4
@@ -315,8 +308,7 @@ USERAGENT
 Valve/Steam HTTP Client
 VB Project
 VCTestClient
-)ver
-Version
+\)ver
 VMozilla
 vTask
 WebForm
