@@ -1,0 +1,352 @@
+-
+00
+123
+4M5yC6u4stom5U8se3r
+56
+aaaa
+Absent
+Accessing
+AegisCrypter
+agent
+Agentcc
+agent-waterdropx
+altera forma
+angel
+AntiVirus
+AnyDesk
+anynameforit
+API-Guide test program
+APK
+App
+aria2/
+artifact
+asd
+AskInstall
+AskPartner
+AsyncInet
+Atomic_Email_Hunter/
+AutoDL/1.0
+AutoHotkey
+AutoIt3Script
+auto_plugin
+Autoupdate
+AVP200
+Bar
+BF
+BigFoot
+Binget/
+BlackSun
+Bootstrapper/
+bot/
+Browser
+BSC Agent
+Caesar!
+ccc
+CFS Agent
+CFS_DOWNLOAD
+Check for Update
+checkonline
+chek
+ChilkatUpload
+chrome
+chrome/9.0
+Chrome Edge 97.0.5
+Clever Internet Suite
+ClickAdsByIE
+Client
+Collection Info/1.0
+Compatible
+_Converter_
+cso v
+curl53
+d3spr3z0
+dafom
+DarkShell
+Darkware
+dBrowser
+del
+DF_Down
+DiscordBot
+dllInstPre
+DOGXX
+DolphinQ
+Downing
+Download App
+downloader
+Downloader
+DownloadMR
+DownloadNetFile
+Duckling/
+DUC v
+DumpTruck
+easyhttp client
+ekeoil/
+EmailSiphon
+Embarcadero URI Client/1.0
+Erbium-UA-
+ErrCode
+ESET Installer
+example/1.0
+FaceCooker
+FastInvoice
+Fire-Cloud
+firefox
+Firefox...
+FirefoxApp
+Flipopia
+FreePDS
+Ftp
+FULLSTUFF
+GameInfo
+Gemini/2.0
+get
+getcmd
+Get HTML Source Code Program
+GetUrlSize
+GKSQ
+Go-http-client
+GOOGLE
+Google Chrome
+google/dance
+h55u4u4u5uii5
+hacker
+Hakai/2.0
+HardCore Software For
+HELLO
+Hello World
+Hello, World
+Hello-World
+hopeisnull
+HTop/
+HTTP/1.
+HTTP Client
+Http-connect
+HTTP_Connect_
+HTTPCSD
+HttpDownload
+HTTP Downloader
+HTTP-Engine
+HTTP_FILEDOWN
+HTTPGET
+HttpRat
+https
+HttpSend
+HttpSocket By Xswallow
+HTTPTEST
+HTTP-Test-Program
+Huai_Huai
+iamideal
+IE
+IE/1.0
+IE6
+IEhook
+IEMGR
+IExplorer 34
+Im'Luo
+INet
+Inet_read
+InfoBot
+InfoSafe
+Installed OK
+Installer
+INSTALLER
+Internet Explorer
+Internet Explorer 8.0
+Internet HTTP
+@internetsecurityguard
+IP
+IP retriever
+ISMYIE
+ItIsMe
+Java/1.
+jrDownload
+kath
+KL Cure Utility/1.0
+Kvadrlson
+LabTech Agent
+ld
+libsfml-network/
+lineguide
+loader
+LockXLS
+Lotto
+M0zilla
+MacShield
+MadeBy
+Malware
+mania
+Mazilla
+mdms
+MERONG
+Microsoft-ATL-Native/9.00
+MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+Microsoft Internet Explorer
+Microsoft Office Existence Discovery
+Microsoft Windows Network Diagnostics
+miip
+min
+Miner
+Moxilla
+Mozil1a
+Mozilla/1.0
+Mozilla/3.0
+Mozilla/4.0
+Mozilla/4.7 [en] (WinNT
+Mozilla/5.0_Frsg_stredf_o21_crown_type
+Mozilla/5.0 (Windows Phone
+Mozilla 6.0
+Mozilla/6.0
+Mozilla/777.0
+mozilla firefox
+Mozilla FireFox 61.00
+MSDW
+msIE
+MSIE
+MSIE 10.0
+MSIE 5.5
+MSIE(6.
+MS Internet Explorer
+MWHTTP
+My Agent
+MyAgent
+My_App
+MyApp
+myappname
+MyCustomUser
+MY_DICK
+MyDownLoad
+MyIE2
+MyLove
+My Session
+MYURL
+MyUserAgent/
+NateFinder
+NateOn/
+Nim httpclient/
+NoAgent
+NoBo
+node-XMLHttpRequest
+None
+NSISDL/
+NSISDL/1.2 (Mozilla)
+NSIS_DOWNLOAD
+NSIS_Inetc
+NSIS_INETC
+NSIS_InetLoad (Mozilla)
+OldAssBrowser
+Omega/
+onedru/
+OnionWClient / 1.0
+Open URL Application
+opera
+Opera/10.60 Presto/2.2.30
+Our_Agent
+PatchMyPC/Get Update FileSize
+Patch My PC Home Updater
+payloadworking
+PhoneMonitor
+Pi/3.1415926
+plugin
+post_example
+pOZw5in9LBZnqf8T
+Proxy_Update_
+pxyscand/
+PyCurl
+QQ
+quard
+Quick Macros
+RAVf4ms
+RBR
+ReadFileURL
+REBOL
+REKOM
+reqwest/
+RestoroMainExe
+RiSing
+RLMultySocket
+RT/1.0
+runPatch.html
+runUpdater.html
+RuokuaiClient
+Safari
+ScrapeBox
+SERVER
+Session
+SetUpAll
+Setup Factory
+Shell
+Si25
+sickness
+SideStep
+Simple Bot v
+sinstall
+SomeTimes
+Some USER - AGENT
+Some USER-AGENT
+ST3PS
+SteamHTTPClient
+STEROID Download
+SUiCiDE
+svchost
+svhost
+System
+ sysWeb/
+Tear Application
+TEN
+_TEST_
+Testing
+test-upload
+The Http-string-downloader
+ Tizen
+ttt
+UA3
+UA4
+UClient
+Ufasoft
+Unknown
+up2dash
+update
+Updater
+UPDATER
+urlRequest
+user_agent
+User-Agent
+USERAGENT
+Valve/Steam HTTP Client
+VB Project
+VCTestClient
+)ver
+Version
+VMozilla
+vTask
+WebForm
+wf-AntiBan
+Wget/
+wget 3.0
+Windows 10
+Windows 7
+Windows 8
+Windows Explorer
+Windows Live Messenger
+Windows NT 10.
+Windows Updates Manager
+Windows XP
+WinInet
+WinInet Test
+winlogon
+WinProxy
+WINS_HTTP_SEND
+WORKED
+WSHELPER
+xfilesreborn
+xPCAP
+xr
+Xxiaoxu
+XXX
+XXXX
+YourUserAgent
+z
+Zadanie
+ZUpdate
+z_v
+zwt
