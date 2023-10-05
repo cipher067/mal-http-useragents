@@ -18,13 +18,13 @@ anynameforit
 API-Guide test program
 APK
 App
-aria2/
+aria2
 artifact
 asd
 AskInstall
 AskPartner
 AsyncInet
-Atomic_Email_Hunter/
+Atomic_Email_Hunter
 AutoDL/1.0
 AutoHotkey
 AutoIt3Script
@@ -34,10 +34,10 @@ AVP200
 Bar
 BF
 BigFoot
-Binget/
+Binget
 BlackSun
-Bootstrapper/
-bot/
+Bootstrapper
+bot
 Browser
 BSC Agent
 Caesar!
@@ -76,11 +76,11 @@ downloader
 Downloader
 DownloadMR
 DownloadNetFile
-Duckling/
+Duckling
 DUC v
 DumpTruck
 easyhttp client
-ekeoil/
+ekeoil
 EmailSiphon
 Embarcadero URI Client/1.0
 Erbium-UA-
@@ -117,7 +117,7 @@ Hello World
 Hello, World
 Hello-World
 hopeisnull
-HTop/
+HTop
 HTTP/1.
 HTTP Client
 Http-connect
@@ -165,7 +165,7 @@ KL Cure Utility/1.0
 Kvadrlson
 LabTech Agent
 ld
-libsfml-network/
+libsfml-network
 lineguide
 loader
 LockXLS
@@ -219,23 +219,23 @@ MyIE2
 MyLove
 My Session
 MYURL
-MyUserAgent/
+MyUserAgent
 NateFinder
-NateOn/
-Nim httpclient/
+NateOn
+Nim httpclient
 NoAgent
 NoBo
 node-XMLHttpRequest
 None
-NSISDL/
+NSISDL
 NSISDL/1.2 (Mozilla)
 NSIS_DOWNLOAD
 NSIS_Inetc
 NSIS_INETC
 NSIS_InetLoad (Mozilla)
 OldAssBrowser
-Omega/
-onedru/
+Omega
+onedru
 OnionWClient / 1.0
 Open URL Application
 opera
@@ -250,7 +250,7 @@ plugin
 post_example
 pOZw5in9LBZnqf8T
 Proxy_Update_
-pxyscand/
+pxyscand
 PyCurl
 QQ
 quard
@@ -260,7 +260,7 @@ RBR
 ReadFileURL
 REBOL
 REKOM
-reqwest/
+reqwest
 RestoroMainExe
 RiSing
 RLMultySocket
@@ -290,7 +290,7 @@ SUiCiDE
 svchost
 svhost
 System
- sysWeb/
+ sysWeb
 Tear Application
 TEN
 _TEST_
@@ -321,7 +321,7 @@ VMozilla
 vTask
 WebForm
 wf-AntiBan
-Wget/
+Wget
 wget 3.0
 Windows 10
 Windows 7
